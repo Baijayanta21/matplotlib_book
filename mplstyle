@@ -1,0 +1,61 @@
+# --------------------------------------------------
+# Text and Fonts
+# --------------------------------------------------
+text.usetex : True
+
+font.family : serif
+font.serif : Times New Roman
+
+font.size : 14
+axes.titlesize : 18
+axes.titleweight : bold
+axes.labelsize : 16
+axes.labelweight : bold
+
+legend.fontsize : 12
+legend.frameon : False
+
+# --------------------------------------------------
+# Lines
+# --------------------------------------------------
+lines.linewidth : 2
+
+# --------------------------------------------------
+# Axes
+# --------------------------------------------------
+axes.linewidth : 1.2
+axes.labelpad : 8
+axes.titlepad : 10
+
+# --------------------------------------------------
+# Ticks
+# --------------------------------------------------
+xtick.labelsize : 12
+ytick.labelsize : 12
+
+xtick.direction : in
+ytick.direction : in
+
+xtick.top : True
+ytick.right : True
+
+xtick.major.size : 6
+ytick.major.size : 6
+
+xtick.minor.size : 3
+ytick.minor.size : 3
+
+xtick.major.width : 1.2
+ytick.major.width : 1.2
+
+xtick.minor.width : 0.8
+ytick.minor.width : 0.8
+
+xtick.minor.visible : True
+ytick.minor.visible : True
+
+
+# --------------------------------------------------
+# Math
+# --------------------------------------------------
+mathtext.default : regular
